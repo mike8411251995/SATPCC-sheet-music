@@ -1,0 +1,70 @@
+import os
+
+def half_to_full(id):
+    return ''.join(chr(ord(char) + 65248) for char in str(id))
+
+song_list = {
+    1: ("禱告", "I Pray", "單單只為你"),
+    2: ("揀選", "Chosen", "寶貴十架"),
+    3: ("活石", "Living Stones", "寶貴十架"),
+    4: ("這世代", "This Generation", "寶貴十架"),
+    5: ("敬拜祢", "We Worship You", "寶貴十架"),
+    6: ("我相信", "I Believe", "似乎在天堂"),
+    7: ("我相信 [閩南語版]", "I Believe (Taiwanese)", "寶貴十架"),
+    8: ("親近祢", "Close to You", "單單只為你"),
+    9: ("寧靜谷", "Valley of Peace", "似乎在天堂"),
+    10: ("深觸我心", "How Precious You are To Me", "深觸我心"),
+    11: ("進入豐盛", "Into His Abundance", "深觸我心"),
+    12: ("深深愛祢", "Deeper In Love", "深觸我心"),
+    13: ("看見復興", "Until We See You", "深觸我心"),
+    14: ("慈愛天父", "God of Mercy", "深觸我心"),
+    15: ("一生愛祢", "With All My Love", "深觸我心"),
+    16: ("榮耀羔羊", "Glorious King", "深觸我心"),
+    17: ("祢的慈愛", "Unfailing Love", "似乎在天堂"),
+    18: ("祢的同在", "Your Presence", "單單只為你"),
+    19: ("全然美麗", "Beautiful", "似乎在天堂"),
+    20: ("耶穌，耶穌", "Jesus, Jesus", "單單只為你"),
+    21: ("祢是聖潔", "You Are Holy", "寶貴十架"),
+    22: ("喔！十字架", "In the Cross", "寶貴十架"),
+    23: ("簡單的歌", "A Simple Song", "似乎在天堂"),
+    24: ("寶貴十架", "Precious Cross", "寶貴十架"),
+    25: ("寶貴十架 [韓文版]", "Precious Cross (Korean)", "寶貴十架"),
+    26: ("聖誕之願", "A Wish For Christmas", "似乎在天堂"),
+    27: ("親愛的聖靈", "Come, Holy Spirit", "深觸我心"),
+    28: ("求主充滿我", "Come and Fill Me Up", "深觸我心"),
+    29: ("我全心頌讚", "I Will Praise You", "深觸我心"),
+    30: ("聖潔的敬拜", "The Purest Worship", "深觸我心"),
+    31: ("主我跟祢走", "Lord, I Walk With You", "單單只為你"),
+    32: ("沙崙的玫瑰", "Rose of Sharon", "單單只為你"),
+    33: ("單單只為祢", "For You Alone", "單單只為你"),
+    34: ("耶和華尼西", "Jehovah Nissi", "單單只為你"),
+    35: ("聖潔全能主", "Holy Is the Lord", "單單只為你"),
+    36: ("全地當讚美", "The Whole Earth Will Sing", "單單只為你"),
+    37: ("小小的夢想", "Little Dream", "寶貴十架"),
+    38: ("祢美好應許", "Your Promise", "單單只為你"),
+    39: ("在祢寶座前", "Before Your Throne", "寶貴十架"),
+    40: ("似乎在天堂", "Just Like Heaven", "似乎在天堂"),
+    41: ("求聽我呼求", "Hear My Voice", "似乎在天堂"),
+    42: ("凡事都能做", "All Things Are Possible", "深觸我心"),
+    43: ("祢是配得讚美", "You Alone are Worthy", "深觸我心"),
+    44: ("邁向新的生命", "A Brand New Life", "深觸我心"),
+    45: ("主祢是我力量", "You Are My Strength", "寶貴十架"),
+    46: ("祢恩典不離開", "Your Grace", "似乎在天堂"),
+    47: ("祢是我的一切", "You Are Everything To Me", "似乎在天堂"),
+    48: ("我要常常喜樂", "I Will Always Rejoice", "似乎在天堂"),
+    49: ("聖哉聖哉聖哉", "Holy, Holy, Holy", "寶貴十架"),
+    50: ("聖靈降下恩雨", "Holy Spirit Rain Down", "寶貴十架"),
+    51: ("這就是你的愛", "Your Love Is Amazing", "似乎在天堂"),
+    52: ("我的救贖者活著", "My Redeemer Lives", "深觸我心"),
+    53: ("耶和華坐著為王", "Lord, You Sit Enthroned", "單單只為你"),
+    54: ("耶和華是我牧者", "Lord, You Are My Shepherd", "單單只為你"),
+    55: ("我心切切渴慕祢", "My Heart Shall Long For You", "單單只為你"),
+    56: ("主的喜樂是我力量", "The Joy of the Lord Is My Strength", "深觸我心"),
+    57: ("Come Away With Me", "Come Away With Me", "似乎在天堂"),
+}
+
+for id, (zh_name, en_name, _, _) in song_list.items():
+    pdf1 = f"{id}.pdf"
+    pdf2 = f"{half_to_full(id)}.pdf"
+    if os.path.exists(pdf1): os.rename(pdf1, f"{zh_name}.pdf")
+    if os.path.exists(pdf2): os.rename(pdf2, f"{zh_name} (吉他譜).pdf")
