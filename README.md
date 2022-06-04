@@ -901,10 +901,15 @@
 [讚美之泉](albums/讓讚美飛揚/讚美之泉.pdf)</td>
         </tr>
         <tr>
-            <td rowspan=1>這裡有榮耀</td>
+            <td rowspan=2>這裡有榮耀</td>
             <td>
 
 [我們歡迎君王降臨](albums/這裡有榮耀/我們歡迎君王降臨.pdf)</td>
+        </tr>
+        <tr>
+            <td>
+
+[謝謝祢](albums/這裡有榮耀/謝謝祢.pdf)</td>
         </tr>
     </tbody>
 </table>
