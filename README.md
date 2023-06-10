@@ -23,7 +23,7 @@
 [禱告的力量](albums/I%20Believe/禱告的力量.pdf)</td>
         </tr>
         <tr>
-            <td rowspan=2>不要放棄．滿有能力</td>
+            <td rowspan=4>不要放棄．滿有能力</td>
             <td>
 
 [何等恩典](albums/不要放棄．滿有能力/何等恩典.pdf)</td>
@@ -32,6 +32,16 @@
             <td>
 
 [恩典之路](albums/不要放棄．滿有能力/恩典之路.pdf)</td>
+        </tr>
+        <tr>
+            <td>
+
+[滿有能力](albums/不要放棄．滿有能力/滿有能力.pdf)</td>
+        </tr>
+        <tr>
+            <td>
+
+[聖潔歸於祢](albums/不要放棄．滿有能力/聖潔歸於祢.pdf)</td>
         </tr>
         <tr>
             <td rowspan=13>似乎在天堂</td>
@@ -513,7 +523,12 @@
 [馨香晚祭](albums/彩虹下的約定/馨香晚祭.pdf)</td>
         </tr>
         <tr>
-            <td rowspan=1>從心合一</td>
+            <td rowspan=2>從心合一</td>
+            <td>
+
+[從心合一](albums/從心合一/從心合一.pdf)</td>
+        </tr>
+        <tr>
             <td>
 
 [聖靈的江河](albums/從心合一/聖靈的江河.pdf)</td>
