@@ -534,7 +534,7 @@
 [聖靈的江河](albums/從心合一/聖靈的江河.pdf)</td>
         </tr>
         <tr>
-            <td rowspan=2>從早晨到夜晚</td>
+            <td rowspan=3>從早晨到夜晚</td>
             <td>
 
 [君王就在這裡](albums/從早晨到夜晚/君王就在這裡.pdf)</td>
@@ -542,13 +542,23 @@
         <tr>
             <td>
 
+[在這裡](albums/從早晨到夜晚/在這裡.pdf)</td>
+        </tr>
+        <tr>
+            <td>
+
 [從早晨到夜晚](albums/從早晨到夜晚/從早晨到夜晚.pdf)</td>
         </tr>
         <tr>
-            <td rowspan=3>愛可以再更多一點點</td>
+            <td rowspan=4>愛可以再更多一點點</td>
             <td>
 
 [我要全心讚美](albums/愛可以再更多一點點/我要全心讚美.pdf)</td>
+        </tr>
+        <tr>
+            <td>
+
+[耶穌的名](albums/愛可以再更多一點點/耶穌的名.pdf)</td>
         </tr>
         <tr>
             <td>
