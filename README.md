@@ -23,6 +23,12 @@
 [禱告的力量](albums/I%20Believe/禱告的力量.pdf)</td>
         </tr>
         <tr>
+            <td rowspan=1>一閃一閃亮晶晶</td>
+            <td>
+
+[愛是](albums/一閃一閃亮晶晶/愛是.pdf)</td>
+        </tr>
+        <tr>
             <td rowspan=4>不要放棄．滿有能力</td>
             <td>
 
@@ -550,6 +556,17 @@
 [從早晨到夜晚](albums/從早晨到夜晚/從早晨到夜晚.pdf)</td>
         </tr>
         <tr>
+            <td rowspan=2>恢復敬拜</td>
+            <td>
+
+[數不盡 (鋼琴伴奏譜)](albums/恢復敬拜/數不盡%20(鋼琴伴奏譜).pdf)</td>
+        </tr>
+        <tr>
+            <td>
+
+[數不盡](albums/恢復敬拜/數不盡.pdf)</td>
+        </tr>
+        <tr>
             <td rowspan=4>愛可以再更多一點點</td>
             <td>
 
@@ -747,7 +764,13 @@
 [起來吧](albums/甦醒/起來吧.pdf)</td>
         </tr>
         <tr>
-            <td rowspan=2>相信有愛就有奇蹟</td>
+            <td rowspan=1>盡情地微笑</td>
+            <td>
+
+[太陽出來了](albums/盡情地微笑/太陽出來了.pdf)</td>
+        </tr>
+        <tr>
+            <td rowspan=4>相信有愛就有奇蹟</td>
             <td>
 
 [叫我抬起頭的神](albums/相信有愛就有奇蹟/叫我抬起頭的神.pdf)</td>
@@ -755,7 +778,17 @@
         <tr>
             <td>
 
+[唯有耶穌](albums/相信有愛就有奇蹟/唯有耶穌.pdf)</td>
+        </tr>
+        <tr>
+            <td>
+
 [在耶穌的腳前](albums/相信有愛就有奇蹟/在耶穌的腳前.pdf)</td>
+        </tr>
+        <tr>
+            <td>
+
+[祢是配得〔聖哉聖哉全地唱〕](albums/相信有愛就有奇蹟/祢是配得〔聖哉聖哉全地唱〕.pdf)</td>
         </tr>
         <tr>
             <td rowspan=8>耶和華祝福滿滿</td>
@@ -926,7 +959,7 @@
 [讚美之泉](albums/讓讚美飛揚/讚美之泉.pdf)</td>
         </tr>
         <tr>
-            <td rowspan=2>這裡有榮耀</td>
+            <td rowspan=3>這裡有榮耀</td>
             <td>
 
 [我們歡迎君王降臨](albums/這裡有榮耀/我們歡迎君王降臨.pdf)</td>
@@ -935,6 +968,11 @@
             <td>
 
 [謝謝祢](albums/這裡有榮耀/謝謝祢.pdf)</td>
+        </tr>
+        <tr>
+            <td>
+
+[這裡有榮耀](albums/這裡有榮耀/這裡有榮耀.pdf)</td>
         </tr>
     </tbody>
 </table>
