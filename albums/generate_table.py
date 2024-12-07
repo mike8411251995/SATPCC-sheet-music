@@ -14,7 +14,8 @@ table_str = "\
 
 for root, dirs, files in os.walk("."):
     path = root.split(os.sep)
-    if len(path) == 1: continue
+    if len(path) == 1:
+        continue
     album_length = len(files)
 
     album_str = f"\
@@ -34,3 +35,5 @@ for root, dirs, files in os.walk("."):
 table_str += "\
     </tbody>\n\
 </table>"
+
+print(table_str)
