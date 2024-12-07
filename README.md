@@ -599,16 +599,27 @@
 [偉大的神](albums/我在這裡/偉大的神.pdf)</td>
         </tr>
         <tr>
+            <td rowspan=1>我能給你什麼</td>
+            <td>
+
+[我選擇喜樂](albums/我能給你什麼/我選擇喜樂.pdf)</td>
+        </tr>
+        <tr>
             <td rowspan=1>我要看見</td>
             <td>
 
 [這是耶和華所定日子](albums/我要看見/這是耶和華所定日子.pdf)</td>
         </tr>
         <tr>
-            <td rowspan=4>新的事將要成就</td>
+            <td rowspan=5>新的事將要成就</td>
             <td>
 
 [前來敬拜](albums/新的事將要成就/前來敬拜.pdf)</td>
+        </tr>
+        <tr>
+            <td>
+
+[奔跑不放棄](albums/新的事將要成就/奔跑不放棄.pdf)</td>
         </tr>
         <tr>
             <td>
@@ -770,7 +781,12 @@
 [太陽出來了](albums/盡情地微笑/太陽出來了.pdf)</td>
         </tr>
         <tr>
-            <td rowspan=4>相信有愛就有奇蹟</td>
+            <td rowspan=5>相信有愛就有奇蹟</td>
+            <td>
+
+[住在祢裡面](albums/相信有愛就有奇蹟/住在祢裡面.pdf)</td>
+        </tr>
+        <tr>
             <td>
 
 [叫我抬起頭的神](albums/相信有愛就有奇蹟/叫我抬起頭的神.pdf)</td>
