@@ -599,7 +599,12 @@
 [偉大的神](albums/我在這裡/偉大的神.pdf)</td>
         </tr>
         <tr>
-            <td rowspan=1>我能給你什麼</td>
+            <td rowspan=2>我能給你什麼</td>
+            <td>
+
+[我能給你什麼](albums/我能給你什麼/我能給你什麼.pdf)</td>
+        </tr>
+        <tr>
             <td>
 
 [我選擇喜樂](albums/我能給你什麼/我選擇喜樂.pdf)</td>
@@ -781,7 +786,7 @@
 [太陽出來了](albums/盡情地微笑/太陽出來了.pdf)</td>
         </tr>
         <tr>
-            <td rowspan=5>相信有愛就有奇蹟</td>
+            <td rowspan=6>相信有愛就有奇蹟</td>
             <td>
 
 [住在祢裡面](albums/相信有愛就有奇蹟/住在祢裡面.pdf)</td>
@@ -800,6 +805,11 @@
             <td>
 
 [在耶穌的腳前](albums/相信有愛就有奇蹟/在耶穌的腳前.pdf)</td>
+        </tr>
+        <tr>
+            <td>
+
+[尊貴全能神](albums/相信有愛就有奇蹟/尊貴全能神.pdf)</td>
         </tr>
         <tr>
             <td>
