@@ -599,7 +599,12 @@
 [偉大的神](albums/我在這裡/偉大的神.pdf)</td>
         </tr>
         <tr>
-            <td rowspan=2>我能給你什麼</td>
+            <td rowspan=3>我能給你什麼</td>
+            <td>
+
+[我揚聲敬拜](albums/我能給你什麼/我揚聲敬拜.pdf)</td>
+        </tr>
+        <tr>
             <td>
 
 [我能給你什麼](albums/我能給你什麼/我能給你什麼.pdf)</td>
@@ -640,6 +645,12 @@
             <td>
 
 [願祢國度降臨](albums/新的事將要成就/願祢國度降臨.pdf)</td>
+        </tr>
+        <tr>
+            <td rowspan=1>永遠尊貴．最珍貴的角落</td>
+            <td>
+
+[我們呼求](albums/永遠尊貴．最珍貴的角落/我們呼求.pdf)</td>
         </tr>
         <tr>
             <td rowspan=2>沙漠中的讚美</td>
@@ -780,10 +791,20 @@
 [起來吧](albums/甦醒/起來吧.pdf)</td>
         </tr>
         <tr>
-            <td rowspan=1>盡情地微笑</td>
+            <td rowspan=3>盡情地微笑</td>
+            <td>
+
+[在祢沒有難成的事](albums/盡情地微笑/在祢沒有難成的事.pdf)</td>
+        </tr>
+        <tr>
             <td>
 
 [太陽出來了](albums/盡情地微笑/太陽出來了.pdf)</td>
+        </tr>
+        <tr>
+            <td>
+
+[愛主你的神](albums/盡情地微笑/愛主你的神.pdf)</td>
         </tr>
         <tr>
             <td rowspan=6>相信有愛就有奇蹟</td>
@@ -856,6 +877,12 @@
             <td>
 
 [除祢以外](albums/耶和華祝福滿滿/除祢以外.pdf)</td>
+        </tr>
+        <tr>
+            <td rowspan=1>聖誕敬拜特輯</td>
+            <td>
+
+[明亮晨星](albums/聖誕敬拜特輯/明亮晨星.pdf)</td>
         </tr>
         <tr>
             <td rowspan=14>讓愛走動</td>
@@ -985,7 +1012,12 @@
 [讚美之泉](albums/讓讚美飛揚/讚美之泉.pdf)</td>
         </tr>
         <tr>
-            <td rowspan=3>這裡有榮耀</td>
+            <td rowspan=4>這裡有榮耀</td>
+            <td>
+
+[愛中相遇](albums/這裡有榮耀/愛中相遇.pdf)</td>
+        </tr>
+        <tr>
             <td>
 
 [我們歡迎君王降臨](albums/這裡有榮耀/我們歡迎君王降臨.pdf)</td>
