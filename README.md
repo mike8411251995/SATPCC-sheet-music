@@ -185,8 +185,9 @@
 </details>
 
 <details>
-<summary><b>從早晨到夜晚</b> (3 首)</summary>
+<summary><b>從早晨到夜晚</b> (4 首)</summary>
 
+- [一生敬拜祢](albums/從早晨到夜晚/一生敬拜祢.pdf)
 - [君王就在這裡](albums/從早晨到夜晚/君王就在這裡.pdf)
 - [在這裡](albums/從早晨到夜晚/在這裡.pdf)
 - [從早晨到夜晚](albums/從早晨到夜晚/從早晨到夜晚.pdf)
@@ -280,6 +281,13 @@
 - [親愛的聖靈](albums/深觸我心/親愛的聖靈.pdf)
 - [進入豐盛](albums/深觸我心/進入豐盛.pdf)
 - [邁向新的生命](albums/深觸我心/邁向新的生命.pdf)
+
+</details>
+
+<details>
+<summary><b>無止境</b> (1 首)</summary>
+
+- [日日夜夜](albums/無止境/日日夜夜.pdf)
 
 </details>
 
