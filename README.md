@@ -255,10 +255,11 @@
 </details>
 
 <details>
-<summary><b>沙漠中的讚美</b> (2 首)</summary>
+<summary><b>沙漠中的讚美</b> (3 首)</summary>
 
 - [喜樂泉源](albums/沙漠中的讚美/喜樂泉源.pdf)
 - [我們愛［讓世界不一樣］](albums/沙漠中的讚美/我們愛［讓世界不一樣］.pdf)
+- [掌上明珠](albums/沙漠中的讚美/掌上明珠.pdf)
 
 </details>
 
